@@ -6,7 +6,7 @@ on:
 
 env:
   ECR_REPOSITORY: nestjs-docker-heroku
-  IMAGE_TAG: NestJS-docker-heroku-image
+  IMAGE_TAG: nestjs-docker-heroku-image
 
 jobs:
   build:
